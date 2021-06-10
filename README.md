@@ -1,6 +1,6 @@
-### Hi there 👋 3rd-year-student at Warsaw University of Technology 
+### Hi there 👋
 
-
+- 3rd-year-student at Warsaw University of Technology 
 <!--
 **IlliaMan/IlliaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
