@@ -1,4 +1,4 @@
-### Hi there :coffee:	:computer:
+### Illia Manzhela :coffee:	:computer:
 
 - :man_student: student at Warsaw University of Technology
 - :nerd_face:	interested in algorithmic stock trading
