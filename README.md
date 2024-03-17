@@ -1,8 +1,10 @@
 ### Illia Manzhela  :coffee:	:computer:
 
-- :hammer: working at Samsung
-- :man_student: student at Warsaw University of Technology
-- :nerd_face:	interested in front-end technologies (`React, Svelte`) + `Rust`
+- :hammer: working at Samsung R&D
+- :man_student: Computer Science Graduate at Warsaw University of Technology
+- :nerd_face:	interested in `Rust`
+- :paperclip:	Take a look at my [CV](/CV.pdf)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaMan&langs_count=3)
 
